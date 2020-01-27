@@ -2,7 +2,7 @@
 
 ## What I set out to build
 
-Initially I planned on working toward creating some part of our project in react-native, or at least attempt to do so, to refamiliarize myself with the software. I encountered so many issues with my environment that I did not have enough time to undertake a large project, so in the end I had to settle for redoing the react-native tutorial from cs-52.
+Initially I planned on working toward creating some part of our project in react-native, or at least attempt to do so, to refamiliarize myself with the software. I did attempt to do this, and did make it a decent way down this path before I felt like I didn't have enough time to create anything meaningful and pivoted. I encountered so many issues with my environment that I did not have enough time to undertake a large project, so in the end I had to settle for redoing the react-native tutorial from cs-52.
 
 ## What I learned
 
